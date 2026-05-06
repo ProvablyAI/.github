@@ -1,14 +1,13 @@
 <div align="center">
   
-  <a href="https://provably.ai" target="_blank">
+  <a href="https://provably.ai/" target="_blank" rel="noopener noreferrer">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-white.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-black.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-white.png" width="250">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-black.png" width="250">
+      <img alt="Provably Logo" src="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-white.png">
     </picture>
   </a>
   
-  <img src="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-black.png" alt="Provably Logo" width="250" />
-
   ### Building Verifiable Databases for integrity in distributed systems
   
   [![Website](https://img.shields.io/badge/Website-provably.ai-black?logo=google-chrome&logoColor=white)](https://provably.ai)
