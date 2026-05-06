@@ -42,12 +42,12 @@ Our core solution for end-to-end data integrity. Provably V2 allows you to conne
 * **Proofs:** Every query result is bundled with a proof that the data is both **correct** (not tampered with) and **complete** (no records were omitted).
 * 👉 **[Launch the Provably App](https://app.provably.ai)**
 
-#### 🤖 SourceryKit
+#### 🤖 Verifiable Data AgentKit
 A deterministic evaluation layer that adds **verifiable guardrails** to any Python agent. SourceryKit ensures transparency and security at the process level:
 * **HTTP Recording:** Every outbound call is recorded for auditability.
 * **Claim Validation:** Handoffs between agents are evaluated against trusted Provably query records.
 * **Policy Enforcement:** Enforce the "policy edge" by controlling which endpoints an agent can access before the request even leaves the process.
-* 👉 **[Explore the SourceryKit Repo](https://github.com/ProvablyAI/sourcerykit)**
+* 👉 **[Explore the Verifiable Data AgentKit Repo](https://github.com/ProvablyAI/verifiable-data-agentkit)**
 
 ---
 
