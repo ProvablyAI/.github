@@ -1,8 +1,7 @@
 <div align="center">
-  <!-- <img src=".github/profile/logo.png" alt="Provably Logo" width="200" /> -->
+  <img src=".github/images/provably-pie-logotype-black.png" alt="Provably Logo" width="250" />
 
-  # Provably
-  **Building Verifiable Databases for integrity in distributed systems**
+  ### Building Verifiable Databases for integrity in distributed systems
   
   [![Website](https://img.shields.io/badge/Website-provably.ai-black?logo=google-chrome&logoColor=white)](https://provably.ai)
   [![Slack](https://img.shields.io/badge/Slack-Join_Community-4A154B?logo=slack&logoColor=white)](https://slack.provably.ai)
