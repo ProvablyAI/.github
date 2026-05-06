@@ -1,9 +1,11 @@
 <div align="center">
-
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-white.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-black.png">
-  </picture>
+  
+  <a href="https://provably.ai" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-white.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-black.png">
+    </picture>
+  </a>
   
   <img src="https://raw.githubusercontent.com/ProvablyAI/.github/main/images/provably-pie-logotype-black.png" alt="Provably Logo" width="250" />
 
