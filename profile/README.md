@@ -19,9 +19,9 @@
 ---
 
 ### 🌐 About Us
-Provably enables blockchains, databases, and AI to create and exchange verifiable data. We believe systems shouldn’t just prove *who* sent the data, but that the data itself is **correct and complete**. 
+Provably enables AI, databases, and blockchains to create and exchange verifiable data. We believe systems shouldn’t just prove *who* sent the data, but that the data itself is **correct and complete**. 
 
-Our technology makes it possible to trustlessly exchange data — powering programmable compliance for blockchain infrastructure, analytics & reporting on private data, and more. We are a European team of engineers and researchers in cryptography and distributed systems.
+Our technology enables trustless data exchange for AI with hallucination-free and poison-free responses, programmable compliance for blockchain infrastructure, analytics and reporting on private data, and more. We are a European team of engineers and researchers specializing in cryptography and distributed systems.
 
 ---
 
@@ -35,19 +35,20 @@ Our work is grounded in formal cryptographic research. We developed **QEDB**, a 
 
 ### 🚀 Getting Started
 
+#### 🤖 Verifiable Data AgentKit
+A Python SDK that adds **verifiable guardrails** to any Python agent. AgentKit improves transparency and security at the process level by combining HTTP recording, claim validation, and endpoint policy enforcement.
+
+* **HTTP Recording:** Every outbound call is recorded for auditability by the Provably interceptor.
+* **Claim Validation:** Agent handoffs are evaluated by the Eval service as a verifiable guardrail against trusted Provably query records.
+* **Policy Enforcement:** Enforce the "policy edge" by controlling which endpoints an agent can access before the request even leaves the process.
+* 👉 **[Explore the Verifiable Data AgentKit Repo](https://github.com/ProvablyAI/verifiable-data-agentkit)**
+
 #### 📊 Verifiable Database
 Our core solution for end-to-end data integrity. Provably V2 allows you to connect existing relational databases and transform them into verifiable data sources with millisecond latency.
 * **SQL IDE:** Execute complex queries through a managed interface that generates cryptographic proofs of correctness automatically.
 * **Database Connectors:** Seamlessly link your existing infrastructure to the Provably network without migrating your entire data stack.
 * **Proofs:** Every query result is bundled with a proof that the data is both **correct** (not tampered with) and **complete** (no records were omitted).
 * 👉 **[Launch the Provably App](https://app.provably.ai)**
-
-#### 🤖 Verifiable Data AgentKit
-A deterministic evaluation layer that adds **verifiable guardrails** to any Python agent. SourceryKit ensures transparency and security at the process level:
-* **HTTP Recording:** Every outbound call is recorded for auditability.
-* **Claim Validation:** Handoffs between agents are evaluated against trusted Provably query records.
-* **Policy Enforcement:** Enforce the "policy edge" by controlling which endpoints an agent can access before the request even leaves the process.
-* 👉 **[Explore the Verifiable Data AgentKit Repo](https://github.com/ProvablyAI/verifiable-data-agentkit)**
 
 ---
 
