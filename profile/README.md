@@ -21,7 +21,7 @@
 ### 🌐 About Us
 Provably enables AI, databases, and blockchains to create and exchange verifiable data. We believe systems shouldn’t just prove *who* sent the data, but that the data itself is **correct and complete**. 
 
-Our technology enables trustless data exchange for AI with hallucination-free and poison-free responses, programmable compliance for blockchain infrastructure, analytics and reporting on private data, and more. We are a European team of engineers and researchers specializing in cryptography and distributed systems.
+Our technology enables trustless data exchange for AI with reliable, error-free responses, programmable compliance for blockchain infrastructure, analytics and reporting on private data, and more. We are a European team of engineers and researchers specializing in cryptography and distributed systems.
 
 ---
 
